@@ -9,4 +9,4 @@ I'm passionate about leveraging my diverse experience to drive innovation and su
 This is my, Linkedin
 https://www.linkedin.com/in/piyadet-kitphadung-thiw/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonnanna23)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonnanna23&layout=compact)
